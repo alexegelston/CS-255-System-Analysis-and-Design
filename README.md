@@ -1,1 +1,7 @@
 # CS-255-System-Analysis-and-Design
+
+The DriverPass project was a web-based application for a digital and in-person course for students preparing for their drivers' test. The Client was DriverPass and they wanted their system to be accessible for students on Windows, Linux, and mobile devices both online and offline.
+I feel that I did a decent job outlining and accounting for all of the clients' needs for system requirements within the projects' different requirement documents.
+If I could go back and dedicate more time to work on these documents I would have likely spent more time improving the use case, activity, and sequence diagrams.
+I interpreted the user's needs and implemented them into the system design by making each need a direct requirement and displaying them in the diagrams for use cases. Considering the user's needs when designing is vital as giving the customer a product that functions as intended is expected as an industry standard.
+When designing software I approach a project by outlining all of the functional requirements first followed by the non-functional requirements. Seeing what is necessary to make the system work as the client wants initially will help with figuring out how to design the rest of the system. As with any software development proect an agile approach is the most efficient use of time and should be a standard everyone adopts for their future projects.
